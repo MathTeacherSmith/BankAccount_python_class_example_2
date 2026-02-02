@@ -1,0 +1,25 @@
+SECTION 1
+
+Account Holder: Jordan
+Balance: 250
+Welcome, Jordan! Your balance is $250.
+
+Account Holder: Casey
+Balance: 100
+Welcome, Casey! Your balance is $100.
+-----------------------------------
+
+SECTION 2
+
+Jordan withdraws 300...
+Insufficient funds. Withdrawal canceled.
+Jordan's Balance After Withdrawal: 250
+
+Casey withdraws 50...
+Casey's Balance After Withdrawal: 50
+-----------------------------------
+
+SECTION 3
+
+Jordan's Balance After Deposit: 350
+Casey's Balance After Deposit: 75
